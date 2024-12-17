@@ -1,0 +1,3 @@
+Ce projet est sous licence GNU General Public License v3.0 ou ultérieure (GPL v3+).
+
+Pour plus d'informations, veuillez consulter le fichier LICENSE ou visiter https://www.gnu.org/licenses/gpl-3.0.html.
